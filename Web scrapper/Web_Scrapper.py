@@ -13,7 +13,7 @@ class Scraper:
         sp = BeautifulSoup(html, parser)
         for tag in sp.find_all("a"):
             url = tag.get("href")
-            print("\n" + url)
+            print("\n" + str(url))
            
 scrape = Scraper('https://news.google.com')
 scrape.scrape()

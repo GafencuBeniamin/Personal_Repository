@@ -1,3 +1,0 @@
-D:/Projects/An 1 Sem 2/Tema 2 IA/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Projects/An 1 Sem 2/Tema 2 IA/cmake-build-debug/CMakeFiles/Tema_2_IA.dir
-D:/Projects/An 1 Sem 2/Tema 2 IA/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,15 @@
+ro\axonsoft\internship\api\VehicleOwnerRecord.class
+ro\axonsoft\internship\api\RoRegPlateParser.class
+ro\axonsoft\internship\api\InvalidRoRegPlateException.class
+ro\axonsoft\internship\impl\VehicleOwnersProcessorImpl.class
+ro\axonsoft\internship\api\RoIdCardParser.class
+ro\axonsoft\internship\api\VehicleOwnersProcessor.class
+ro\axonsoft\internship\api\RoRegPlateProperties.class
+ro\axonsoft\internship\api\VehicleOwnerParseError.class
+ro\axonsoft\internship\impl\VehicleOwnersAggregator.class
+ro\axonsoft\internship\api\InvalidRoIdCardException.class
+ro\axonsoft\internship\api\InvalidRoIdCardSeriesException.class
+ro\axonsoft\internship\api\Judet.class
+ro\axonsoft\internship\api\RoIdCardSeriesJudMapper.class
+ro\axonsoft\internship\impl\RoRegPlateParserImpl.class
+ro\axonsoft\internship\api\RoIdCardProperties.class

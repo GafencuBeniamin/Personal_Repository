@@ -1,0 +1,63 @@
+!!ro.axonsoft.internship.impl.SerializableResult
+errors: !!set
+  ? !!ro.axonsoft.internship.impl.OwnerErrorParser
+    getLine: 10
+    getType: 2
+  : null
+  ? !!ro.axonsoft.internship.impl.OwnerErrorParser
+    getLine: 11
+    getType: 0
+  : null
+  ? !!ro.axonsoft.internship.impl.OwnerErrorParser
+    getLine: 7
+    getType: 1
+  : null
+  ? !!ro.axonsoft.internship.impl.OwnerErrorParser
+    getLine: 8
+    getType: 0
+  : null
+oddToEvenRatio: 400
+passedRegChangeDueDate: 1
+unregCarsCountByJud:
+  BC: 0
+  B: 0
+  BH: 0
+  DJ: 0
+  NT: 0
+  HR: 0
+  BN: 0
+  SB: 0
+  BR: 0
+  BT: 0
+  BV: 0
+  SJ: 0
+  BZ: 0
+  SM: 0
+  MH: 0
+  IF: 0
+  MM: 2
+  AB: 0
+  GJ: 0
+  IL: 0
+  SV: 1
+  GL: 0
+  OT: 0
+  AG: 0
+  MS: 0
+  CJ: 0
+  CL: 0
+  IS: 0
+  GR: 0
+  CS: 0
+  AR: 0
+  CT: 0
+  CV: 0
+  VL: 0
+  PH: 0
+  TL: 0
+  VN: 0
+  TM: 0
+  HD: 0
+  VS: 0
+  DB: 0
+  TR: 0
